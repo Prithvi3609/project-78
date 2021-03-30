@@ -1,9 +1,7 @@
-body
+body{
+    text-align: center;
+    }
+#album
 {
-  background-color: lightyellow;
-  text-align: center;
-}
-h1
-{
-       text-decoration: navy;
+    width:450px;
 }
